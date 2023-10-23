@@ -10,7 +10,7 @@ LibDoc is a Jekyll theme that was crafted to easily and quickly get properly des
 
 [![pages-build-deployment](https://github.com/olivier3lanc/Jekyll-LibDoc/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/olivier3lanc/Jekyll-LibDoc/actions/workflows/pages/pages-build-deployment) [![Jekyll Themes Shield](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com) 
 
-![LibDoc layout](https://github.com/olivier3lanc/Jekyll-LibDoc/raw/master/assets/libdoc/img/libdoc-layout-page-split.webp)
+![LibDoc layout](https://github.com/olivier3lanc/Jekyll-LibDoc/raw/develop/assets/libdoc/img/libdoc-layout-page-split.webp)
 
 ## Showcase
 
@@ -63,7 +63,7 @@ Your repository is now ready to be deployed as GitHub Pages website, all you hav
 
 ### Online - No installation copy or clone
 
-![Github.dev](https://github.com/olivier3lanc/Jekyll-LibDoc/raw/master/assets/libdoc/img/libdoc-edit-online.webp)
+![Github.dev](https://github.com/olivier3lanc/Jekyll-LibDoc/raw/develop/assets/libdoc/img/libdoc-edit-online.webp)
 
 It is possible to craft documentation with LibDoc only with your browser, [Github](https://www.github.com) and [Github Pages](https://pages.github.com). 
 
