@@ -169,7 +169,11 @@ sidebar:
     # Allows to add links that are not pages included into the project
     # Display additional links anywhere into the sidebar
     additional_links:
+<<<<<<< HEAD
         -   url: https://github.com/olivier3lanc/LibDoc-remote-demo # Local or remote URL
+=======
+        -   url: https://github.com/olivier3lanc/Jekyll-LibDoc # Local or remote URL
+>>>>>>> 07b7eb6d23f4e748f43c27dcfc3ba7390161de14
             title: <span class="i-github u-mr-xxs"></span> View on GitHub # Link text
             order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
             # category: Showcase # Add this this link into a category just like pages
@@ -182,6 +186,7 @@ sidebar:
         -   url: https://olivier3lanc.github.io/Scroll-Btween/
             title: Scroll Btween
             order: 500
+<<<<<<< HEAD
             category: Examples using LibDoc
         -   url: https://olivier3lanc.github.io/Scroll-Frames/
             title: Scroll Frames
@@ -196,6 +201,18 @@ sidebar:
             title: <span class="i-github u-mr-xxs"></span> Jekyll LibDoc
             order: 510
             category: External resources
+=======
+            category: Showcase
+        -   url: https://olivier3lanc.github.io/Scroll-Frames/
+            title: Scroll Frames
+            order: 500
+            category: Showcase
+        -   url: https://olivier3lanc.github.io/seemap/
+            title: SEEMAP
+            order: 500
+            category: Showcase
+        # Example remote URL
+>>>>>>> 07b7eb6d23f4e748f43c27dcfc3ba7390161de14
         -   url: https://pages.github.com
             title: Github Pages
             order: 510
@@ -208,8 +225,13 @@ sidebar:
 # BADGES
 # Feature that allows to display badges into the footer https://shields.io image html and url
 shields:
+<<<<<<< HEAD
     -   image_html: <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/olivier3lanc/LibDoc-remote-demo?logo=github&style=flat-square">
         link_url: https://github.com/olivier3lanc/LibDoc-remote-demo
+=======
+    -   image_html: <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/olivier3lanc/Jekyll-LibDoc?logo=github&style=flat-square">
+        link_url: https://github.com/olivier3lanc/Jekyll-LibDoc
+>>>>>>> 07b7eb6d23f4e748f43c27dcfc3ba7390161de14
     -   image_html: <img alt="no trackers, no cookies and no analytics" title="This website has no trackers, no cookies and no analytics. Only feedback is important :)" src="https://img.shields.io/badge/no%20trackers|cookies|analytics-Just%20feedback-green?style=flat-square">
         link_url: 'mailto:olivier3lanc@gmail.com'
 
